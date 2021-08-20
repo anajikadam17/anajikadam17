@@ -31,7 +31,9 @@
 ## My details:
 
 - Personal Mail: [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=anajikadam17@gmail.com)
+- My Kaggle Profile: [https://www.kaggle.com/anajikadam17](https://www.kaggle.com/anajikadam17)
 - My second Github: [https://github.com/anajikadam](https://github.com/anajikadam)
+
 ----
 ## Heroku Project:
 - Simple ML Project: [https://ana-project-diabetes-predict.herokuapp.com/](https://ana-project-diabetes-predict.herokuapp.com/)
